@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a motivated software engineering student with
 - 💼 Currently looking for a software developer position to leverage my skills in programming, problem-solving, front-end, and back-end development, and cloud technologies.
 
 ### Résumé
-[![Resume](https://drive.google.com/uc?export=view&id=1rMk_DQtsjWANtEHnAw8Kq0WmjfGO3Mz4)](https://drive.google.com/drive/u/0/folders/1rMk_DQtsjWANtEHnAw8Kq0WmjfGO3Mz4)
+[![Resume](https://drive.google.com/uc?export=view&id=1SFyxzJZ8uYtPYgzRZVGBtR80VDV0WLH8)](https://drive.google.com/file/d/1SFyxzJZ8uYtPYgzRZVGBtR80VDV0WLH8/view?usp=drive_link)
 
 
 ## 🚀 Skills
