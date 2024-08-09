@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a motivated software engineering student with
 **धर्म हिंसा तथैव च।**
 
 - **Meaning**: Non-violence is the highest duty; but so too is violence in service of duty
-               i.e in ideal situations one must practice non-violence in all forms mental as well as pysical as it is the greatest act of righteousness (परमॊ धर्मः) , but in non-ideal situations where your life or truth  or people who are righteous are under threat then one can use violence to protect path of righteousness i.e *Dharma*. 
+               i.e in ideal situations one must practice non-violence in all forms mental as well as physical as it is the greatest act of righteousness (परमॊ धर्मः), but in non-ideal situations where your life or truth  or people who are righteous are under threat then one can use violence to protect path of righteousness i.e *Dharma*. 
 - **Source**: *Mahabharata* (Vana Parva, 207.81).
 
 ### How These Principles Guide My Life
