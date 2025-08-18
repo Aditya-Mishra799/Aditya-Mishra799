@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I am a motivated software engineering student with
 
 ## 🔍 About Me
 
-- 🎓 **Bachelor of Engineering in Computer Engineering** from Mumbai University (2021-2025), with a CGPA of 10.
-- 🌟 Cleared **GATE DA 2024** with 43/100 marks, rank 3736.
+- 🎓 **Bachelor of Engineering in Computer Engineering** from Mumbai University (2021-2025), with a CGPA of 9.78/10.
+- 🌟 Cleared **GATE DA 2024** with rank 3736.
 - 💼 Currently looking for a software developer position to leverage my skills in programming, problem-solving, front-end, and back-end development, and cloud technologies.
 
 ## 🚀 Skills
