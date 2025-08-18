@@ -11,36 +11,6 @@ Welcome to my GitHub profile! I am a motivated software engineering student with
 - 🌟 Cleared **GATE DA 2024** with 43/100 marks, rank 3736.
 - 💼 Currently looking for a software developer position to leverage my skills in programming, problem-solving, front-end, and back-end development, and cloud technologies.
 
-## 🌱 Principles That Guide My Life
-
- **सर्वे भवन्तु सुखिनः**
- 
- **सर्वे सन्तु निरामयाः।**
- 
- **सर्वे भद्राणि पश्यन्तु**
- 
-**मा कश्चिद् दुःखभाग्भवेत्॥**
-
-- **Meaning**: May all be happy, may all be free from illness, may all experience prosperity, and may none suffer.
-- **Source**: *Brihadaranyaka Upanishad*.
-
-**अहिंसा परमॊ धर्मः**
-
-**धर्म हिंसा तथैव च।**
-
-- **Meaning**: Non-violence is the highest duty; but so too is violence in service of duty
-               i.e in ideal situations one must practice non-violence in all forms mental as well as physical as it is the greatest act of righteousness (परमॊ धर्मः), but in non-ideal situations where your life or truth  or people who are righteous are under threat then one can use violence to protect path of righteousness i.e *Dharma*. 
-- **Source**: *Mahabharata* (Vana Parva, 207.81).
-
-### How These Principles Guide My Life
-
-These ancient principles are not just words for me; they define my approach to life and my interactions with the world. 
-
-- The first principle, "सर्वे भवन्तु सुखिनः," reflects my commitment to contributing positively to society. Whether in personal life or professional life, I aim to create solutions that bring happiness, well-being, and prosperity to all. May all be auspicious and seek righteousness in their lives following **Dharma**.
-
-- The second principle, "अहिंसा परमॊ धर्मः," emphasizes the importance of non-violence. However, it also acknowledges that there are times when taking a stand is necessary to uphold righteousness. This understanding guides my decisions, ensuring that while I strive for peace, I am also ready to act with courage and determination when the situation demands it.
-
-These principles hold immense value for me, shaping not only my goals but also the way I choose to pursue them.
 ## 🚀 Skills
 
 ### Languages
